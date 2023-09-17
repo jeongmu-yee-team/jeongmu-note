@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"526f4eb42ecef7be","type":"file","file":"jumgmul-note/정무카페 키오스크 프로젝트.md","x":-660,"y":-420,"width":400,"height":400},
+		{"id":"79daf4f1a4a05e2f","type":"file","file":"jumgmul-note/프레임워크.md","x":-660,"y":80,"width":400,"height":400},
+		{"id":"07c22ebbcd74058b","type":"file","file":"jumgmul-note/웹 디자인.md","x":-120,"y":-420,"width":400,"height":400},
+		{"id":"536c1a5b2f5ab16b","type":"file","file":"jumgmul-note/회의 내용/2023-09-19 2차 회의.md","x":600,"y":80,"width":400,"height":400},
+		{"id":"525f63b849fc593c","type":"file","file":"jumgmul-note/회의 내용/2023-09-18 1차 회의.md","x":600,"y":-420,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"756e5b0de8ab3c8d","fromNode":"526f4eb42ecef7be","fromSide":"right","toNode":"07c22ebbcd74058b","toSide":"left"},
+		{"id":"9526ac8d5642ebad","fromNode":"07c22ebbcd74058b","fromSide":"right","toNode":"525f63b849fc593c","toSide":"left"},
+		{"id":"2fa07f4be90305ca","fromNode":"526f4eb42ecef7be","fromSide":"bottom","toNode":"79daf4f1a4a05e2f","toSide":"top"},
+		{"id":"c9682637eb766230","fromNode":"07c22ebbcd74058b","fromSide":"right","toNode":"536c1a5b2f5ab16b","toSide":"left"}
+	]
+}
