@@ -1,17 +1,17 @@
 {
 	"nodes":[
-		{"id":"526f4eb42ecef7be","type":"file","file":"정무카페 키오스크 프로젝트.md","x":-660,"y":-420,"width":400,"height":400},
-		{"id":"07c22ebbcd74058b","type":"file","file":"웹 디자인.md","x":-120,"y":-420,"width":400,"height":400},
 		{"id":"536c1a5b2f5ab16b","type":"file","file":"회의 내용/2023-09-19 2차 회의.md","x":600,"y":80,"width":400,"height":400},
-		{"id":"525f63b849fc593c","type":"file","file":"회의 내용/2023-09-18 1차 회의.md","x":600,"y":-420,"width":400,"height":400},
-		{"id":"fb83f5812575f12d","type":"file","file":"프레임워크.md","x":-660,"y":80,"width":400,"height":400},
-		{"id":"5ff6d9dab1753c39","x":600,"y":540,"width":400,"height":400,"type":"file","file":"회의 내용/2023-09-19 3차 회의.md"}
+		{"id":"525f63b849fc593c","type":"file","file":"회의 내용/2023-09-12 1차 회의.md","x":600,"y":-420,"width":400,"height":400},
+		{"id":"5ff6d9dab1753c39","type":"file","file":"회의 내용/2023-09-27 3차 회의.md","x":600,"y":540,"width":400,"height":400},
+		{"id":"526f4eb42ecef7be","type":"file","file":"정무카페 키오스크 프로젝트.md","x":-460,"y":-420,"width":400,"height":400},
+		{"id":"fb83f5812575f12d","type":"file","file":"프레임워크 및 라이브러리.md","x":-460,"y":80,"width":400,"height":400},
+		{"id":"52d5d7b60645519e","x":-1060,"y":-420,"width":400,"height":400,"type":"file","file":"README.md"}
 	],
 	"edges":[
-		{"id":"756e5b0de8ab3c8d","fromNode":"526f4eb42ecef7be","fromSide":"right","toNode":"07c22ebbcd74058b","toSide":"left"},
-		{"id":"9526ac8d5642ebad","fromNode":"07c22ebbcd74058b","fromSide":"right","toNode":"525f63b849fc593c","toSide":"left"},
-		{"id":"c9682637eb766230","fromNode":"07c22ebbcd74058b","fromSide":"right","toNode":"536c1a5b2f5ab16b","toSide":"left"},
 		{"id":"445fd46aada54c29","fromNode":"526f4eb42ecef7be","fromSide":"bottom","toNode":"fb83f5812575f12d","toSide":"top"},
-		{"id":"ad920eb908d8ffe6","fromNode":"07c22ebbcd74058b","fromSide":"right","toNode":"5ff6d9dab1753c39","toSide":"left"}
+		{"id":"fd28cf1d34b1fb9d","fromNode":"526f4eb42ecef7be","fromSide":"right","toNode":"525f63b849fc593c","toSide":"left"},
+		{"id":"109f22d2af59bb50","fromNode":"526f4eb42ecef7be","fromSide":"right","toNode":"536c1a5b2f5ab16b","toSide":"left"},
+		{"id":"0d1de1acdcde0167","fromNode":"526f4eb42ecef7be","fromSide":"right","toNode":"5ff6d9dab1753c39","toSide":"left"},
+		{"id":"e273be6fb23b524b","fromNode":"52d5d7b60645519e","fromSide":"right","toNode":"526f4eb42ecef7be","toSide":"left"}
 	]
 }
