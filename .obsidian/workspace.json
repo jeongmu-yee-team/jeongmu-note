@@ -6,19 +6,17 @@
       {
         "id": "e4d3566f89478d01",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "f321a6c2abeaa495",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "프로젝트.canvas",
-                "viewState": {
-                  "x": -30,
-                  "y": 260,
-                  "zoom": -0.4594316186372974
-                }
+                "file": "정무카페 키오스크 프로젝트.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,35 +81,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1ec5467f17fb1bc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "프로젝트.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "39ce680d81af36f2",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "프로젝트.canvas",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "362bb58edc2f132e",
             "type": "leaf",
             "state": {
@@ -149,37 +118,116 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "b5ef988f07b53e03",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9bd3eac3b974827",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "프로젝트.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69352b395eac3cfe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "프로젝트.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 289.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "canvas:새 캔버스 만들기": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f321a6c2abeaa495",
+  "floating": {
+    "id": "8452d63d0f59c33b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1a69f6fd2c420853",
+        "type": "window",
+        "children": [
+          {
+            "id": "22e72b9132d2cbf4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "70e0d48ae6afe9ff",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "프로젝트.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 915,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "70e0d48ae6afe9ff",
   "lastOpenFiles": [
     "프레임워크 및 라이브러리.md",
     "정무카페 키오스크 프로젝트.md",
     "회의 내용/2023-09-27 3차 회의.md",
     "회의 내용/2023-09-19 2차 회의.md",
     "회의 내용/2023-09-12 1차 회의.md",
+    "프로젝트.canvas",
     "README.md",
+    "무제 파일.canvas",
+    "2023-09-30.md",
     "정무카페.md",
     "정무카페 1.md",
-    "프로젝트.canvas",
     "().md",
     "웹 디자인.md",
     "2023-09-18 1차 회의.md",
