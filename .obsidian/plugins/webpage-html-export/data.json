@@ -29,8 +29,19 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "exportPath": "C:\\Users\\dlfdl\\Downloads",
+  "exportPath": "E:\\WorkSpace\\GitHub\\External_Project\\jumgmu-note\\web",
   "filesToExport": [
-    []
+    [
+      "회의 내용/2023-09-12 1차 회의.md",
+      "회의 내용/2023-09-19 2차 회의.md",
+      "회의 내용/2023-09-27 3차 회의.md",
+      "회의 내용/2023-10-05 4차 회의.md",
+      "회의 내용/회의 기록.md",
+      "정무카페 키오스크 프로젝트.md",
+      "프레임워크 및 라이브러리.md",
+      "프로젝트 뷰어.canvas",
+      "회의록 작성 규칙 및 웹 뷰어로 배포.md",
+      "README.md"
+    ]
   ]
 }
