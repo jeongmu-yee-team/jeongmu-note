@@ -8,13 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff28e49d9ceb0b43",
+            "id": "5b395c157dcd622d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프레임워크 및 라이브러리.md",
+                "file": "회의록 작성 규칙 및 웹 뷰어로 배포.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -78,6 +79,7 @@
       {
         "id": "c9e086a4d754477f",
         "type": "tabs",
+        "dimension": 31.67883211678832,
         "children": [
           {
             "id": "362bb58edc2f132e",
@@ -146,14 +148,36 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "b9dac0d25618e4c6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
+      },
+      {
+        "id": "eb5aa154444ed10d",
+        "type": "tabs",
+        "dimension": 68.32116788321169,
+        "children": [
+          {
+            "id": "ef6d8d900674ff2b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
-    "collapsed": true
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,19 +192,19 @@
     }
   },
   "floating": {
-    "id": "54bd8e9355b1a28f",
+    "id": "03891af9df960242",
     "type": "floating",
     "children": [
       {
-        "id": "a804b3c26a014236",
+        "id": "24ecf9383527a8de",
         "type": "window",
         "children": [
           {
-            "id": "0c1914170e237dcb",
+            "id": "d7c8058aed7af601",
             "type": "tabs",
             "children": [
               {
-                "id": "4fc884f7cce33e54",
+                "id": "1898de9eb5e4d43f",
                 "type": "leaf",
                 "state": {
                   "type": "canvas",
@@ -207,38 +231,30 @@
       }
     ]
   },
-  "active": "4fc884f7cce33e54",
+  "active": "1898de9eb5e4d43f",
   "lastOpenFiles": [
     "프레임워크 및 라이브러리.md",
     "정무카페 키오스크 프로젝트.md",
-    "회의 내용/회의 기록.md",
+    "정무 기술블로그.md",
+    "회의 내용/2023-10-12 5차 회의.md",
     "회의 내용/2023-10-05 4차 회의.md",
-    "회의 내용/2023-09-27 3차 회의.md",
+    "회의 내용/2023-09-26 3차 회의.md",
     "회의 내용/2023-09-19 2차 회의.md",
     "회의 내용/2023-09-12 1차 회의.md",
-    "프로젝트 뷰어.canvas",
+    "기술 블로그/새 글2.md",
+    "기술 블로그/새 글.md",
     "회의록 작성 규칙 및 웹 뷰어로 배포.md",
+    "프로젝트 뷰어.canvas",
     "README.md",
-    "2023-W40.md",
-    "회의 내용/무제 폴더",
+    "기술 블로그/무제 파일.md",
+    "회의 내용/무제 파일.md",
     "무제 폴더",
+    "기술 블로그",
+    "회의 기록.md",
+    "회의 내용/무제 폴더",
     "프로젝트.canvas",
     "무제 파일.canvas",
-    "2023-09-30.md",
-    "정무카페.md",
-    "정무카페 1.md",
-    "().md",
-    "웹 디자인.md",
-    "2023-09-18 1차 회의.md",
-    "장바구니.md",
-    "e.md",
-    "회의 내용/2023-09-27.md",
     "Untitled.canvas",
-    "회의 내용/2023-09-18 1차 회의.md",
-    "2023-09-21.md",
-    "2023-W38.md",
-    "jumgmul-note.md",
-    "jumgmul-note/프레임워크.md",
     "jumgmul-note"
   ]
 }
