@@ -1,8 +1,9 @@
-## Jeongmu CAFE Project
+# Digital Obsidian Garden
+This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
+See the README in the plugin repo for information on how to set it up.
 
-본 문서는 정무 2팀의 카페 키오스크 제작 프로젝트의 개발 문서입니다.  
-해당 프로젝트 개발 문서는  [Obsidian](https://obsidian.md/)으로 제작되었습니다.  
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
 
-***
-
-[문서 홈](https://jeongmu-yee-team.github.io/jeongmu-note/)
+---
+## Docs
+Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
