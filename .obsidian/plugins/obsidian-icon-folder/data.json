@@ -23,11 +23,8 @@
     "iconInTabsEnabled": true,
     "iconInTitleEnabled": true,
     "iconInFrontmatterEnabled": true,
-    "iconsBackgroundCheckEnabled": true
-  },
-  "회의 내용/2023-10-05 4차 회의.md": {
-    "iconName": "RiFileTextLine",
-    "inheritanceIcon": "RiFileTextLine"
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true
   },
   "회의 내용": {
     "iconName": "RiBook2Line",
@@ -37,13 +34,7 @@
     "iconName": "RiBookmark3Line",
     "inheritanceIcon": "RiBookmarkLine"
   },
-  "회의 내용/2023-09-12 1차 회의.md": "RiFileTextLine",
-  "회의 내용/2023-09-19 2차 회의.md": "RiFileTextLine",
-  "회의 내용/2023-09-26 3차 회의.md": "RiFileTextLine",
-  "프레임워크 및 라이브러리.md": "📔",
-  "정무 기술블로그.md": "📖",
-  "정무카페 키오스크 프로젝트.md": "☕",
   "기술 블로그/새 글.md": "RiBookmarkLine",
   "기술 블로그/새 글2.md": "RiBookmarkLine",
-  "회의록 작성 규칙 및 웹 뷰어로 배포.md": "⚡"
+  "회의 내용/2023-10-05 4차 회의.md": "RiFileTextLine"
 }
