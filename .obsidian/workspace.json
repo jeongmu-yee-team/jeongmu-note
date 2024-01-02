@@ -108,7 +108,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -233,6 +235,8 @@
   },
   "active": "1898de9eb5e4d43f",
   "lastOpenFiles": [
+    "회의록 작성 규칙 및 웹 뷰어로 배포.md",
+    "프로젝트 뷰어.canvas",
     "프레임워크 및 라이브러리.md",
     "정무카페 키오스크 프로젝트.md",
     "정무 기술블로그.md",
@@ -243,8 +247,6 @@
     "회의 내용/2023-09-12 1차 회의.md",
     "기술 블로그/새 글2.md",
     "기술 블로그/새 글.md",
-    "회의록 작성 규칙 및 웹 뷰어로 배포.md",
-    "프로젝트 뷰어.canvas",
     "README.md",
     "기술 블로그/무제 파일.md",
     "회의 내용/무제 파일.md",
